@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : ""
   avatar           : "me.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "CERN, Geneva"
