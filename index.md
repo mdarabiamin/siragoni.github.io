@@ -39,56 +39,6 @@ You may want to spend a little time learning how to use markdown, as it'll make 
 
 ![A sigh old picture of myself.](images/28685072_1624565274264624_8263257815999232116_n.jpg)
 
-## Editing the Name of Your Webpage and Customizing
-
-The first step to creating your website is to edit the information in the YAML file.  This is a simple configuration file where some important settings for your site are stored. 
-
-You'll find the `_config.yml` file in the root (parent) level of your repo. In GitHub, click on the `_config.yml` file.  To edit it click on the pencil button on the right.
-
-Update the *title*, *name*, *bio*, *email*, and the social media fields (such as *twitter*, *linkedin*) with your information.
-
-Just make you that you don't modify anything below `#DO NOT EDIT BEYOND THIS POINT`.
-
-Here's an example `_config.yml` file. Don't worry about the avatar and the logo file for right now. # symbols are the beginning of comments.  The text to the right of the # symbol is ignored.  
-
-```
-# Site wide configuration
-title: Academic Website of Ted Laderas
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
-```
-
-After you have edited your `_config.yml` file, click the green "Commit changes" button at the bottom of the page, which will save the file to your repository.
-
-## Look at your new website!
-
-You're ready to go! Now check out your initialized website at https://USERNAME.github.io. Next we'll start customizing it!
-
-## Make Content Using Markdown
-
-We'll be adding our content by using Markdown Files. Markdown is a lightweight way to format text that is much easier to manipulate than working with HTML files directly.
-
-GitHub has a "translation engine" that will transform and format your Markdown files for the website, making them browser friendly.
-
-This means you can concentrate on making content rather than obsessing about every little site detail!
 
 ## Markdown Basics
 
