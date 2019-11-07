@@ -1,7 +1,6 @@
 ---
 title: "Github Pages Tutorial"
 author: "Simone Ragoni, using directly the beginner template provided by Ted Laderas (laderast@ohsu.edu), Eric Leung (leunge@ohsu.edu), Robin Champieux (champieu@ohsu.edu), Eric Earl (earl@ohsu.edu), and Marijane White (whimar@ohsu.edu)"
-date: "`r Sys.Date()`"
 output:
   html_document:
     toc: true
