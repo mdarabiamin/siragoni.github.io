@@ -52,6 +52,8 @@ Try editing the `cv.md` file with your info (remember to click the edit pencil b
 
 Reload your website to make sure that the changes worked. It sometimes takes a little time for GitHub to update the files, so be patient if they don't appear immediately.
 
+[My short CV (the official version is much longer but ok).](cv.md)
+
 ## Let's Update Your Home Page (Index) And Add Some Links
 
 Your `index.md` file controls your website's front matter.  You'll want to update it with your short bio and links to relevent projects and interests.  For example, take a look at [Robin's website](https://rchampieux.github.io/).
