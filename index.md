@@ -36,17 +36,8 @@ You may want to spend a little time learning how to use markdown, as it'll make 
   1. Look at your even better website!
   1. Make a local copy for easier editing
 
-## A little bit about Jekyll
 
-Jekyll is what's known as a static site generator. It will build a website from simple text files that are in Markdown. Markdown is much easier to work with, since you don't have to worry about adding HTML tags and accidentally breaking it.
-
-The other nice thing about Jekyll is that it will integrate things like Google Analytics, Tags, and search into your website structure.
-
-Jekyll is built into GitHub, so we just need to edit the files in our repository to have GitHub automatically build the webpage.
-
-Here's a little picture of the file structure of our website and what we'll do to modify it.
-
-![Jekyll_structure](images/28685072_1624565274264624_8263257815999232116_n.jpg)
+![A sigh old picture of myself.](images/28685072_1624565274264624_8263257815999232116_n.jpg)
 
 ## Editing the Name of Your Webpage and Customizing
 
