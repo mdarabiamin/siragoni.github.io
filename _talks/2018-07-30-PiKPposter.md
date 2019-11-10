@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2018-07-30-PiKPposter
 venue: "Bologna, San Domenico's Centre"
-date: 2018
+date: 2018-07-30
 location: "Bologna, Italy"
 ---
 
