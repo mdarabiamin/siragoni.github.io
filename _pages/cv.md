@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Liceo Scientifico's Diploma, 100/100 with honours, Liceo Marconi, Carrara (MS), Italy, 2011
+* B.Sc. in Physics, 110/110 with honours, University of Bologna, Italy, 2016
+* M.Sc. in Nuclear and Subnuclear Physics, 110/110 with honours, University of Bologna, Italy, 2018
+* Ph.D student in Nuclear Physics, University of Birmingham, UK, 2022 (expected, hopefully...!)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn and Winter 2018 to 2019: Teaching Assistant
+  * University of Birmingham, UK
+  * Duties included: Marking students' assignments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019 to Oct 2020: Long Term Appointment (LTA)
+  * CERN, Geneva
+  * Duties included: Always analyses... Plus my Service Task!
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++
+  * A little bit of Python...
+  * A little bit of Markdown...
+  * VHDL basics
+  * Latex
+* Data Analysis
+  * Definitely ROOT
+  * Python...?
+  * C++
+* Statistics
+* Heavy Ion Physics
+* Ultraperipheral Collisions
 
 Publications
 ======
@@ -56,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ...
