@@ -3,7 +3,7 @@ title: 'C++ Comedy Chapter 1'
 date: 2019-11-12
 permalink: /CppComedy/Chapter-1/
 type: "CppComedy"
-collection: portfolio  
+collection: CppComedy  
 author_profile: true
 ---
 
