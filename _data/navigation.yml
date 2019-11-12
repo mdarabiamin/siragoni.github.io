@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
       
-  - title: "C++ Comedy"
-    url: /CppComedy/      
+  - title: "A C++ Journey"
+    url: /CppJourney/      
       
   - title: "Blog Posts"
     url: /year-archive/
