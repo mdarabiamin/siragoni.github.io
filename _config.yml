@@ -249,13 +249,13 @@ defaults:
       author_profile: true
       share: true
   # _CppComedy
-  - scope:
-      path: ""
-      type: CppComedy
-    values:
-      layout: portfolio
-      author_profile: true
-      share: true
+#   - scope:
+#       path: ""
+#       type: CppComedy
+#     values:
+#       layout: portfolio
+#       author_profile: true
+#       share: true
 
 
 
