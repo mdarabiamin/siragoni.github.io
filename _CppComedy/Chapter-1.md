@@ -1,6 +1,6 @@
 ---
 title: 'C++ Comedy Chapter 1'
-date: 2012-08-14
+date: 2019-11-12
 permalink: /CppComedy/Chapter-1/
 tags:
   - portfolio
