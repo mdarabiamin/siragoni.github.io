@@ -11,7 +11,10 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+      
+  - title: "C++ Comedy"
+    url: /CppComedy/      
+      
   - title: "Blog Posts"
     url: /year-archive/
     
