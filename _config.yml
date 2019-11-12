@@ -253,9 +253,10 @@ defaults:
       path: ""
       type: CppComedy
     values:
-      layout: portfolio
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 
