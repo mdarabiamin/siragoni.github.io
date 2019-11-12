@@ -1,7 +1,7 @@
 ---
-title: 'C++ Comedy Chapter 1'
+title: 'C++ Journey Chapter 1'
 date: 2019-11-12
-permalink: /CppComedy/Chapter-1/
+permalink: /CppJourney/Chapter-1/
 type: "portfolio"
 collection: portfolio  
 author_profile: true
