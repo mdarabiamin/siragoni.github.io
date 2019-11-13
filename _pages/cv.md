@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Liceo Scientifico's Diploma, 100/100 with honours, Liceo Marconi, Carrara (MS), Italy, 2011
+* Liceo Scientifico's Diploma, 100/100 with honours, Liceo Marconi, Carrara (MS), Italy, 2013
 * B.Sc. in Physics, 110/110 with honours, University of Bologna, Italy, 2016
 * M.Sc. in Nuclear and Subnuclear Physics, 110/110 with honours, University of Bologna, Italy, 2018
 * Ph.D student in Nuclear Physics, University of Birmingham, UK, 2022 (expected, hopefully...!)
