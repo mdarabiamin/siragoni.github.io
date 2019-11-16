@@ -1,6 +1,6 @@
 ---
 title: "IELTS certificate: 8.5"
-excerpt: "Obtaned certificate level 8.5 1<br/><img src='/images/IELTS.png'>"
+excerpt: "Obtained certificate level 8.5 1<br/><img src='/images/IELTS.png'>"
 collection: portfolio
 ---
 
