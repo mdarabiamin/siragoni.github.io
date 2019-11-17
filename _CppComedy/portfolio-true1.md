@@ -19,7 +19,12 @@ The standard procedure is to start with the infamous **HELLO WORLD** program.
 #include <iostream>
 using namespace std;
 
+//_____________________________
 void HelloWorld(){
   cout << "Hello World" << endl;
+}
+//_____________________________
+int main(){
+  HelloWorld();
 }
 ```
