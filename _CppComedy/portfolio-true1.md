@@ -15,7 +15,8 @@ The joy of seeing your piece od code actually running... Is overwhelming.
 
 The standard procedure is to start with the infamous **HELLO WORLD** program.
 
-`` void HelloWorld(){
-    cout << "Hello World" << endl;
-   }
-   ``
+```ruby
+void HelloWorld(){
+  cout << "Hello World" << endl;
+}
+```
