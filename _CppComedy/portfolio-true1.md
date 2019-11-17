@@ -16,6 +16,9 @@ The joy of seeing your piece od code actually running... Is overwhelming.
 The standard procedure is to start with the infamous **HELLO WORLD** program.
 
 ```javascript
+#include <iostream>
+using namespace std;
+
 void HelloWorld(){
   cout << "Hello World" << endl;
 }
