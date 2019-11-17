@@ -15,7 +15,7 @@ The joy of seeing your piece od code actually running... Is overwhelming.
 
 The standard procedure is to start with the infamous **HELLO WORLD** program.
 
-```python
+```javascript
 void HelloWorld(){
   cout << "Hello World" << endl;
 }
