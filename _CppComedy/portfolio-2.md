@@ -1,6 +1,6 @@
 ---
 title: 'C++ Journey Chapter 2: for a better life'
-date: 2019-11-16
+date: 2019-11-17
 permalink: /CppJourney/Chapter-2/
 type: "portfolio"
 collection: portfolio  
