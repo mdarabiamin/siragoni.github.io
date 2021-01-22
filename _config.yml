@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simone Ragoni"
 title_separator          : "-"
 name                     : &name "Simone Ragoni"
-description              : &description "Phd student at the University of Birmingham, UK"
+description              : &description "PhD student at the University of Birmingham, UK"
 url                      : https://siragoni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siragoni.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Simone Ragoni"
-  avatar           : "me.jpg"
+  avatar           : "SR.jpg"
   bio              : "MSc in Nuclear and Subnuclear Physics, I am travelling the world to provide a little help in improving the knowledge on Ultraperipheral Collisions..."
   location         : "CERN, Geneva"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "siragoni"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ragonisimone"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "simone-ragoni"
