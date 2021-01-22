@@ -24,7 +24,10 @@ Work experience
 
 * Oct 2019 to Oct 2020: Long Term Appointment (LTA)
   * CERN, Geneva
-  * Duties included: Always analyses... Plus my Service Task!
+  * Duties included:
+    * Physics analyses
+    * Firmware projects
+    * Hardware testing
 
 * Autumn and Winter 2020 to 2021: Teaching Assistant
   * University of Birmingham, UK
@@ -65,4 +68,4 @@ Teaching
 
 Service and leadership
 ======
-* ...
+* Together with my dear Colleagues Mike Sas and Jiyoung Kim, we are the *ALICE Journal Club*'s organisers
