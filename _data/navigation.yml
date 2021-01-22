@@ -4,22 +4,22 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-      
-  - title: "A C++ Journey"
-    url: /CppJourney/      
-      
+    url: /teaching/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "A C++ Journey"
+    url: /CppJourney/
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Guide"
     url: /markdown/

@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-08-30-RecentResultsUPC
 excerpt: 'Proceedings of the poster presented at INPC 2019, Glasgow.'
 date: 2019-08-30
+venue: 'INPC 2019, Glasgow'
 paperurl: 'https://arxiv.org/abs/1909.12212'
 ---
 The first proceedings from the start of my PhD. They show ALICE results for coherent J/Psi photoproduction in Pb--Pb.

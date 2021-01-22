@@ -25,18 +25,21 @@ Work experience
 * Oct 2019 to Oct 2020: Long Term Appointment (LTA)
   * CERN, Geneva
   * Duties included: Always analyses... Plus my Service Task!
-  
+
+* Autumn and Winter 2020 to 2021: Teaching Assistant
+  * University of Birmingham, UK
+  * Duties included: Demonstrator in Python Labs
+
 Skills
 ======
 * Programming
   * C++
-  * A little bit of Python...
-  * A little bit of Markdown...
-  * VHDL basics
+  * Python
+  * VHDL
   * Latex
 * Data Analysis
-  * Definitely ROOT
-  * Python...?
+  * ROOT
+  * Python
   * C++
 * Statistics
 * Heavy Ion Physics
@@ -47,19 +50,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * ...
