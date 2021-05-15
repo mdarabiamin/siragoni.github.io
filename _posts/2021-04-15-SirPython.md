@@ -1,5 +1,5 @@
 ---
-title: 'Interview'
+title: 'SIR & Covid: a Python trial by fire'
 date: 2021-04-15
 permalink: /posts/2021/04/sirpython/
 tags:
@@ -14,4 +14,4 @@ Dear Readers, it has been a while. A contribution of mine on a possible way of m
 
 It is available [here](http://www.quotidianoapuano.net/la-rubrica-del-fisico-apuano-simone-ragoni-uniniziazione-alla-modellizzazione-dellandamento-del-covid-19-python/) and [here](https://www.ilsitodimassacarrara.it/content/132-un%E2%80%99iniziazione-alla-modellizzazione-dell%E2%80%99andamento-del-covid-19-con-python).
 
-It is basically using a simple SIR model to predict and describe the trend in a time-dependent way. The Python notebook which I had prepared for the public is also available on my GitHub, have a look [here](https://github.com/siragoni/Miscellaneous/blob/main/SimplifiedSIR.ipynb). Enjoy. 
+It is basically using a simple SIR model to predict and describe the trend in a time-dependent way. The Python notebook which I had prepared for the public is also available on my GitHub, have a look [here](https://github.com/siragoni/Miscellaneous/blob/main/SimplifiedSIR.ipynb). Enjoy.
