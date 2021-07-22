@@ -14,7 +14,7 @@ tags:
 ---
 
 Quite recently, a new article I had written about ALICE and the Italian contribution to the overall success of the experiment, appeared on the usual two websites.
-It is available [here](http://www.quotidianoapuano.net/la-rubrica-del-fisico-apuano-simone-ragoni-alice-piu-bel-microscopio-big-bang/),
-and [here](https://www.ilsitodimassacarrara.it//content/656-alice-il-più-bel-microscopio-il-big-bang).
+It is available [here](http://www.quotidianoapuano.net/la-rubrica-del-fisico-apuano-simone-ragoni-alice-contributo-italian/),
+and [here](https://www.ilsitodimassacarrara.it//content/901-la-rubrica-del-fisico-apuano-simone-ragoni-alice-il-contributo-italiano).
 
 Happy reading!
