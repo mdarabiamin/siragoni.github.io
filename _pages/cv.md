@@ -14,7 +14,8 @@ Education
 * Liceo Scientifico's Diploma, 100/100 with honours, Liceo Marconi, Carrara (MS), Italy, 2013
 * B.Sc. in Physics, 110/110 with honours, University of Bologna, Italy, 2016
 * M.Sc. in Nuclear and Subnuclear Physics, 110/110 with honours, University of Bologna, Italy, 2018
-* Ph.D student in Nuclear Physics, University of Birmingham, UK, 2022 (expected, hopefully...!)
+* Ph.D in High Energy Nuclear Physics, University of Birmingham, UK, 2022 
+* Postdoctoral researcher, Creighton University, USA, June 2022 onwards
 
 Work experience
 ======
@@ -33,6 +34,14 @@ Work experience
   * University of Birmingham, UK
   * Duties included: Demonstrator in Python Labs
 
+* June 2022 onwards: Potdoctoral reseacher
+  * Creighton University, USA
+  * Duties included: 
+    * UPCs
+    * ALICE Coffee Series @CERN 
+    * EMCAL 
+
+
 Skills
 ======
 * Programming
@@ -47,6 +56,7 @@ Skills
 * Statistics
 * Heavy Ion Physics
 * Ultraperipheral Collisions
+* Writer
 
 Publications
 ======
@@ -69,3 +79,4 @@ Teaching
 Service and leadership
 ======
 * Together with my dear Colleagues Mike Sas and Jiyoung Kim, we are the *ALICE Journal Club*'s organisers
+* Together with my dear Colleagues Mike Sas and Livia Terlizzi, we are the organisers of the *ALICE Coffe Series @CERN*
