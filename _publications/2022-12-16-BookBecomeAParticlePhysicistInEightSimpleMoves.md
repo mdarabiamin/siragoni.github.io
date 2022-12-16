@@ -1,7 +1,7 @@
 ---
 title: "BOOK: Become a particle physicist in eight simple moves"
 collection: publications
-permalink: /publication/2022-12-16-BookBecomeAParticlePhysicistInEightSimpleMoves
+permalink: /publication/2022-12-16-BookBecome
 excerpt: 'Carrara, Italy'
 date: 2022-12-20
 venue: 'City Hall'
