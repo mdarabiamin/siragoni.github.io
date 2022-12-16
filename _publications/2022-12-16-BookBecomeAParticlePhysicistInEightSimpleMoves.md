@@ -11,4 +11,4 @@ Becoming a particle physicist has never been any easier!
 
 [You can buy it here](https://www.acrobatedizioni.it/prodotto/comediventarefisico/)
 
-<br/><img src='/images/book.jpeg'>
+<!-- <br/><img src='/images/book.jpeg'> -->
