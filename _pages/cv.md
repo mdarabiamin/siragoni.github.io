@@ -39,7 +39,11 @@ Work experience
   * Duties included: 
     * UPCs
     * ALICE Coffee Series @CERN 
-    * EMCAL 
+    * EMCAL trigger simulation responsible
+    * ALICE Outreach Board member 
+    * ALICE social media manager
+
+* October 2024 onwards: ALICE PAG UPC convener   
 
 
 Skills
@@ -54,6 +58,7 @@ Skills
   * Python
   * C++
 * Statistics
+* Machine Learning
 * Heavy Ion Physics
 * Ultraperipheral Collisions
 * Writer
@@ -78,5 +83,6 @@ Teaching
 
 Service and leadership
 ======
+* Together with Tapan Nayak: ALICE social media manager
 * Together with my dear Colleagues Mike Sas and Jiyoung Kim, we are the *ALICE Journal Club*'s organisers
 * Together with my dear Colleagues Mike Sas and Livia Terlizzi, we are the organisers of the *ALICE Coffe Series @CERN*
