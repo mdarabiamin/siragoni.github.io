@@ -12,14 +12,14 @@ Dear Reader,
 thanks for getting here.
 
 <!-- My name is Simone, and I am a PhD student at the University of Birmingham, UK. I am one of the physicists of the [ALICE Collaboration](http://alice.web.cern.ch). The aim of this website is to try and help the community with a bit of the Physics that ALICE is involved with, and to try and explain my little role in it. -->
-My name is Simone, and I am a postdoctoral researcher at Creighton University, USA. I am one of the physicists of the [ALICE Collaboration](http://alice.web.cern.ch). The aim of this website is to try and help the community with a bit of the Physics that ALICE is involved with, and to try and explain my little role in it.
+My name is Simone, and I am a postdoctoral researcher at Creighton University, USA. I am one of the physicists of the [ALICE Collaboration](http://alice.web.cern.ch). The aim of this website is to try and help the community with a bit of the Physics that ALICE is involved with, and to try and explain my little role in it, complementing my outreach activities as [quarktastic](https://www.instagram.com/quarktastic/).
 
 
 <br/><img src='/images/places/ALICEpeople.jpg'>
 
-My research is all about [Ultraperipheral Collisions](https://arxiv.org/abs/nucl-ex/0502005). Ultraperipheral collisions, in short UPC, are a special class of events which may happen inside the CERN's Large Hadron Collider. A photon (what light is made of) is emitted from either interaction partners and interacts with an object known as Pomeron from the target (the other interaction partner). I am also helping the team I am part of via other means, e.g. not too complex VHDL projects and testing our hardware.
+My research is all about [Ultraperipheral Collisions](https://arxiv.org/abs/nucl-ex/0502005). Ultraperipheral collisions, in short UPC, are a special class of events which may happen inside the CERN's Large Hadron Collider. A photon (what light is made of) is emitted from either interaction partners and interacts with an object known as Pomeron from the target (the other interaction partner). Since October 2024 I serve as coordinator of the research group UPC in ALICE. 
 
-I am also a writer and a science communicator! My physics alter ego is *quarktastic* on Instagram. Tap that button! I am also author of *Become a particle physicist in eight simple moves* which was presented at the [24th IPPOG Meeting](https://indico.cern.ch/event/1185824/)! You can buy it [here](https://www.acrobatedizioni.it/prodotto/comediventarefisico/) in both Italian and English!
+I am also a writer and a science communicator! My physics alter ego is *quarktastic* on Instagram, and I am also the guy putting the posts on the ALICE social media account together with my social media mentor Tapan Nayak, come join our lives from the ALICE Control Room! Tap that button! I am also author of *Become a particle physicist in eight simple moves* which was presented at the [24th IPPOG Meeting](https://indico.cern.ch/event/1185824/)! You can buy it [here](https://www.acrobatedizioni.it/prodotto/comediventarefisico/) in both Italian and English!
 
 <br/><img src='/images/book.jpeg'>
 
